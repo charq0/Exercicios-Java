@@ -1,3 +1,9 @@
+/*
+10. Faça um programa que receba um valor inteiro e informe se ele 
+é um número primo.
+
+*/
+
 import java.util.Scanner;
 
 public class Numero {
