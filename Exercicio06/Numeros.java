@@ -37,13 +37,3 @@ public class Numeros {
 		System.out.printf("\nA soma dos Pares eh igual a: %d", soma);						
 	}			
 }
-
-public class Main {
-	public static void main(String[] args) {
-			Numeros novoNum = new Numeros();
-			novoNum.entrada();
-			novoNum.calcularPares();
-			novoNum.impressao();
-	}
-}
-
