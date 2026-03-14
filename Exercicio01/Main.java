@@ -1,4 +1,4 @@
-public class Exercicio01 {
+public class Main {
 
     public static void main(String[] args) {
         Salario novoSalario= new Salario();
