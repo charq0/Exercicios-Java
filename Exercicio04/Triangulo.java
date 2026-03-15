@@ -1,7 +1,9 @@
+/*
 
-package exercicio.pkg04;
-   import java.util.Scanner;
 
+*/
+
+import java.util.Scanner;
 
 public class Triangulo {
     private double area;
